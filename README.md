@@ -1,6 +1,6 @@
 # MovieHub - Explore Global Movies
 
-![MovieHub Logo](/path/to/logo.png)
+![iconmini1](https://github.com/munagalasandeep99/project-FRT/assets/129391713/6ad3a369-0b5e-4311-9c9e-5e1b61dd355d)
 
 MovieHub is a web application that provides a curated platform dedicated exclusively to showcasing movies from around the globe. The platform addresses the challenge of scattered movie content on the internet by offering a specialized space for movie enthusiasts to explore and enjoy trailers, access ratings, and discover ongoing and recently released films.
 
