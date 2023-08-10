@@ -39,6 +39,3 @@ _Movie details page displaying movie information, ratings, and trailer._
 
 Contributions are welcome! If you find any bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](/LICENSE).
