@@ -24,7 +24,7 @@ MovieHub is a web application that provides a curated platform dedicated exclusi
 
 1. Clone this repository to your local machine.
 2. Obtain an API key from Themoviedb by signing up on their website.
-3. Replace `'YOUR_API_KEY'` in the JavaScript code with your actual API key.
+3. Replace `'YOUR_API_KEY'` in the JavaScript code with your actual API key in main.js file.
 4. Open `main.html` in your web browser.
 
 ## Screenshots
