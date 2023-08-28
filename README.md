@@ -28,19 +28,22 @@ MovieHub is a web application that provides a curated platform dedicated exclusi
 4. Open `main.html` in your web browser.
 
 ## Screenshots
+<img width="960" alt="home" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/49ffb830-7642-411b-baef-dbf778a50210">
 
-![Screenshot (10)](https://github.com/munagalasandeep99/project-FRT/assets/129391713/d2226329-017f-4bd4-9dcf-28b5eb262777)
 
 _Homepage showcasing featured movies and search functionality._
 
-![Screenshot (13)](https://github.com/munagalasandeep99/project-FRT/assets/129391713/f8850629-706f-4e45-bea2-b90979650ec0)
+<img width="960" alt="details" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/271da634-eceb-4c3a-be86-fa671e42a222">
+
 
 _Movie details page displaying movie information, ratings, and trailer._
 
-![Screenshot (11)](https://github.com/munagalasandeep99/project-FRT/assets/129391713/b294c5ac-1e43-49c3-a3cf-e1f8166000e4)
+<img width="960" alt="genre" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/29dbc167-094b-4a0e-b5f6-6accf4f59d22">
+
 _genre page showing languages and category of movie._
 
-![Screenshot (12)](https://github.com/munagalasandeep99/project-FRT/assets/129391713/adfe4e23-698e-4d12-9fa8-83c34114549c)
+<img width="959" alt="search" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/d3a4d821-4ad3-466f-85a4-66a511dc70c1">
+
 _showing search feature in moviehub_
 ## Contributing
 
