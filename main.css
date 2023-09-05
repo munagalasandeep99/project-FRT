@@ -16,12 +16,17 @@
 body {
   background: black;
 }
-
+.book{
+  background-color: azure;
+}
 .navbar a {
   text-decoration: none;
   color: #ffcc00;
   display: inline-block;
   opacity: 0.9;
+}
+.offercard{
+  background: azure;
 }
 .menu ul li {
   list-style: none;
