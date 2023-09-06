@@ -139,9 +139,7 @@ function showPoster(data)
       movieEl.classList.add("poster");
       movieEl.innerHTML=`
       <img src="${poster_path ? IMG_URL + poster_path : "https://i.gifer.com/5IJ.gif " }" alt="${title}">
-      <div class="btn">
-          <span>Book tickets</span>
-      </div>
+    
       `
       pbtn.appendChild(movieEl);
     }
